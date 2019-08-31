@@ -4,6 +4,6 @@ print("{0:.3f}".format(9.3/2.7))
 y = 2.5*4.8
 print("{:.1f}".format(y))
       
-r = 8/float(3) #float ³Ö°Å³ª »©µµ °ªÀº °°´Ù. 
+r = 8/float(3) #floatë¥¼ ë¹¼ê³  3ì„ ê·¸ëŒ€ë¡œ ì ì–´ë„ ë˜‘ê°™ì€ ê°’ì´ ë„ì¶œëŒ
 print("{:.2f}".format(r))
 print("{0:.4f}".format(8.0/3))
